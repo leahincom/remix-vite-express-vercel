@@ -5287,6 +5287,8 @@ __metadata:
     typescript: "npm:^5.3.2"
     vite: "npm:^5.0.0"
     vite-tsconfig-paths: "npm:^4.2.1"
+  bin:
+    remix-vite-express-vercel: ./bin/generate-app.mjs
   languageName: unknown
   linkType: soft
 
